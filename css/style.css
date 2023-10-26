@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(164, 135, 222);
+}
+
+.container {
+    background-color: rgba(255, 228, 196, 0.374);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
