@@ -18,7 +18,7 @@ To get a copy of the project up and running on your local machine, follow these 
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone <repository-url>
+   git clone <https://github.com/Kmbugi1/project-wk-4>
 
 ### Author 
 [keith wachira]()
